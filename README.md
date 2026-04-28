@@ -1,4 +1,4 @@
-# ❤️ iLoveMarkdown
+# iLoveMarkdown
 
 Conversor de arquivos para Markdown — arraste, solte e converta. Construído sobre a biblioteca [markitdown](https://github.com/microsoft/markitdown) da Microsoft.
 
